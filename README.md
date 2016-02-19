@@ -29,7 +29,9 @@ What is expected in the next version?
 The following will be improved:
 - There will be some more reports for the accounts system.
 - Improvement of the Library system
--
+- Improvement of the user interface.
+- Correction of reported errors.
+
 How to run the program
 -
 The following are the steps:
@@ -38,7 +40,6 @@ The following are the steps:
 -  In the main form, select the appropriate menu
 
 Download a start up launch program
--
-Program Launcher -PC 
-Program Launcher -Android 
-.
+-Program Launcher -PC 
+-Program Launcher -Android 
+
