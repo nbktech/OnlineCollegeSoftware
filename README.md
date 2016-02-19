@@ -1,7 +1,7 @@
-# OnlineCollegeSoftware
+# Online College Software
 Overview
 -
-This software helps in managing the data of the school/ college, thereby helping to bring about data quality.
+This software developed by NBK Technologies, Zambia LTD helps in managing the data of the school/ college, thereby helping to bring about data quality.
  
 Release Notes
 -
